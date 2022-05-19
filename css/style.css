@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.text-yellow {
+    color: rgb(194, 141, 7);
+}
+
+.text-center {
+    align-items: center;
+}
